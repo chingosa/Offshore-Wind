@@ -1,0 +1,30 @@
+Col 1: Code 
+	PPP%### -  PPP -> 3 Leter project code; % Section Number; ### Measure Number Within section
+Col 2: Seen
+	For Classifier - Denotes being classified -> Boolean
+Col 3: tit
+	Brief Title
+Col 4: PreC
+	Boolean - Preconstruction
+Col 5: Con
+	Boolean - Construction
+Col 6: OM
+	Boolean - Operations and Maintience
+Col 7: Dcom
+	Boolean - Decomissioning
+Col 8: Loc
+	Location - comma deliniated -> Site, Cable, OnShore
+Col 9: AB
+	Above or Below Water - comma deliniated -> AboveWater, BelowWater
+Col 10: Mon
+	Boolean - Monitoring
+Col 11: Mit
+	Boolean - Mitigation
+Col 12: Prot
+	Protected Resource - comma deliniated -> "MarineMams", "Turts", "Birds", "Bats", "Benthic", "AirQ", "WaterQ", "AcouAbove", "AcouBelow","Fish", "EssFishHabs", "CultArcheo", "CoastalHabs", "WetLands", "RecTourism", "RecComFisheries","VesselNav", "SocioEcon", "EnviroJustice", "PubHealth", "Visual", "FAA-DOD","Other"
+Col 13-15: Additional Tags
+	Boolean - Additional Tags
+Col 16: Name
+	Catigorical - Name of effective Measure
+	
+
